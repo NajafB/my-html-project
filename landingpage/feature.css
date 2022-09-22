@@ -1,0 +1,18 @@
+
+.feature_title{
+    font-size: 24px;
+    
+}
+
+.feature_icon
+{
+    display: inline-block;
+    border-radius: 50%;
+}
+
+@media screen and (max-width:1200px){
+    .feature_title{
+        font-size: 16px;
+    }
+    
+}

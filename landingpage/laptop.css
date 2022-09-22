@@ -1,0 +1,19 @@
+.laptop{
+    background-image: url(./images/bg/bgdescription.png);
+    background-repeat: no-repeat;
+    padding: 98px 0px;
+    width: auto;
+    height: 100%;
+}
+
+.laptop_container{
+    display:flex;
+    flex-direction: row;
+}
+
+@media screen and (max-width:1200px){
+    .laptop_image{
+        width: 33px;
+        height: 30px;
+    }
+}

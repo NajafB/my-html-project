@@ -1,0 +1,25 @@
+@import url('https://fonts.googleapis.com/css2?family=Exo:wght@500&display=swap');
+
+body{
+font-family:"Exo";
+margin: 0;
+}
+
+h2{
+    font-size: 40px;
+}
+
+h3{
+    font-size: 1.2em;
+}
+span{
+    color: #ff6d6d;
+}
+a{
+    text-decoration: none;
+    color: black;
+    transition: 0.7s;
+}
+a:hover{
+    color: #ff6d6d
+}

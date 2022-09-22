@@ -1,0 +1,31 @@
+.browser{
+    display: flex;
+    justify-content: center;
+    padding-top: 130px;
+}
+
+.browser_text{
+    max-width: 580px;
+    margin: 0 auto;
+    text-align: center;
+}
+
+.browser_text-title{
+    color: #ff6d6d;
+    letter-spacing: 2px;
+    font-size: 16px;
+    font-weight: bold;
+}
+
+.browser_text-subtitle{
+    font-size: 40px;
+    line-height: 50px;
+    font-weight: normal;
+    margin-top: 20px;
+}
+
+.browser_photo img{
+    padding-top: 30px;
+    margin-bottom: -5px;
+    width: 100%;
+}

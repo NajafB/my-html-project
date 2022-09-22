@@ -1,0 +1,32 @@
+.laptop_text{
+padding: 30px 60px;
+}
+.laptop_text-title{
+    color: #ff6d6d;
+    font-size: 14px;
+}
+
+.laptop_text-subtitle{
+    font-size: 40px;
+    font-weight: normal;
+}
+
+@media screen and (max-width:1200px){
+    .laptop{
+        padding: 119px 0px;
+    }
+    .laptop_text{
+        width: 414px;
+        font-size: 12px;
+        padding: 17px 25px 2px 70px;
+    }
+    .laptop_text-subtitle{
+        font-size: 30px;
+    }
+}
+
+@media screen and (max-width: 600xp){
+
+    
+
+}

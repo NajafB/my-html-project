@@ -1,0 +1,20 @@
+.partners{
+    display:flex;
+    flex-direction: row;
+    text-align: center;
+    justify-content: center;
+    width: 100%;
+}
+
+.partners_logo{
+    width: 135px;
+    margin: 10px 25px 70px 0px;
+    padding-bottom: 50px;
+    align-self: center;
+}
+
+@media screen and (max-width:1200px){
+    .partners_logo-img{
+        width: 75px;
+    }
+}

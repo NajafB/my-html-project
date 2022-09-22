@@ -1,0 +1,68 @@
+.registration{
+    min-height: 250px;
+    padding: 100px 5%;
+    background-color: #323969;
+    justify-content: center;
+    text-align: center;
+    letter-spacing: 1px;
+}
+
+.registration_text{
+    font-weight: normal;
+}
+.registration_text h3{
+   color: #ff6d6d;
+   font-weight: normal;
+}
+.registration_login{
+    font-size: 16px;
+    margin-top: 80px;
+}
+.registration_text h2{
+    color: white;
+    font-weight: normal;
+}
+
+.login_input{
+  width: 220px;
+  height: 25px;
+  padding: 10px 22px;
+  color: white;
+  border-radius: 5px;
+  background: #474d78;
+  border: 2px solid #999cb4;
+  margin: 10px;
+}
+.login_button{
+    width: 265px;
+    height: 50px;
+    border-radius: 5px;
+    background-color: #ff6d6d;
+    border: none;
+    color: white;
+    margin: 10px;
+    font-weight: bold;
+    cursor:pointer;
+    letter-spacing: 1px;
+}
+.login_button:hover{
+    transition: 0.7s;
+    box-shadow: 5px 10px 15px #1d1f2c;
+}
+
+.registration_terms{
+    margin-top: 50px;
+    color: white;
+}
+
+.registration_terms a {
+    color:white;
+    text-decoration: underline;
+    cursor: pointer;
+}
+
+.registration_terms a:hover {
+    color:#ff6d6d;
+    text-decoration: underline;
+    transition: 0.7s;
+}
